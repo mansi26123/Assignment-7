@@ -24,7 +24,7 @@ Go to UI folder and run `npm run watch` to make babel watch for changes in files
 
 ## MongoDB reset
 
-From Api folder, you can run `mongo "mongodb+srv://cluster.yxyis.mongodb.net/inventoryTracker" --username jainamcsheth scripts/init.mongo.js` and enter password as `jainamcsheth` to reset the database with two products added initially.
+From Api folder, you can run `mongo "mongodb+srv://cluster.yxyis.mongodb.net/inventoryTracker" --username mansi261 scripts/init.mongo.js` and enter password as `mansi261` to reset the database with two products added initially.
 
 ## Lint check
 
